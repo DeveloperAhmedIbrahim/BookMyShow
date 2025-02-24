@@ -8,3 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## This repo contains the clone frontend of BookMyShow application using React.
+
+## Packages used in this project.
+
+### Tailwind (Styling).
+### React Slick (Carousel).
+### Headlessui (Fancy Componenets).
+### Axios (API Requests).
