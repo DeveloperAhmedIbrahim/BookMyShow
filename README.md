@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 ### Headlessui (Fancy Componenets).
 ### Axios (API Requests).
 ### React Icons (Fancy Icons).
+### React Router DOM (Routes).
