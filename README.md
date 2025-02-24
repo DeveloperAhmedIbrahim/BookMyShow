@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 ### React Slick (Carousel).
 ### Headlessui (Fancy Componenets).
 ### Axios (API Requests).
+### React Icons (Fancy Icons).
