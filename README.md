@@ -1,0 +1,1 @@
+## This repo contains the clone frontend of BookMyShow application usging React.
